@@ -1,7 +1,7 @@
 # Hey, I'm Bilal 👋
 
 <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=Bilal-A-G&count_private=true&show_icons=true&theme=dark"/>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilal-A-G&layout=compact&theme=dark"/>
+<img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilal-A-G&layout=compact&theme=dark"/>
 
 &emsp;
 

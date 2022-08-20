@@ -1,11 +1,7 @@
 # Hey, I'm Bilal 👋
 
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=Bilal-A-G&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only"/>
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilal-A-G&layout=compact&theme=dark#gh-dark-mode-only"/>
-
-
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=Bilal-A-G&count_private=true&show_icons=true&theme=radial#gh-light-mode-only"/>
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilal-A-G&layout=compact&theme=radial#gh-light-mode-only"/>
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=Bilal-A-G&count_private=true&show_icons=true&theme=dark"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilal-A-G&layout=compact&theme=dark"/>
 
 &emsp;
 

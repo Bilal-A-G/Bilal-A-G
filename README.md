@@ -5,7 +5,7 @@
 
 &emsp;
 
-### I'm a passionate game developer, working on projects pretty much all the time.
+### I'm a passionate game developer, working on projects pretty much all the time
 
 Currently, I'm working on an architecture framework for Unity, which you can check out here [W_I_Zr_Ds](https://github.com/Bilal-A-G/W_I_Zr_Ds) as well as an FPS game using said framework, which you can find here, [Project Mortalis](https://github.com/Bilal-A-G/Project-Mortalis)
 
